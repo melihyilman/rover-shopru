@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5d03b7ea-f6d8-4aef-b54e-f236294ee32f": {
+      "ProjectGuid": "5d03b7ea-f6d8-4aef-b54e-f236294ee32f",
+      "DisplayName": "MarsRover",
+      "ColorIndex": 0
+    },
+    "234f11ff-e24c-4af3-b240-9e54f7bc765d": {
+      "ProjectGuid": "234f11ff-e24c-4af3-b240-9e54f7bc765d",
+      "DisplayName": "MarsRover.Test",
+      "ColorIndex": 1
+    },
+    "fd871978-c68c-4e1f-af63-0455598e04a0": {
+      "ProjectGuid": "fd871978-c68c-4e1f-af63-0455598e04a0",
+      "DisplayName": "MarsRover.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4a6ebb27-efcb-45be-ac19-8e107bdc348e": {
+      "ProjectGuid": "4a6ebb27-efcb-45be-ac19-8e107bdc348e",
+      "DisplayName": "ShopsRUs.Web",
+      "ColorIndex": 0
+    },
+    "a34c9d6a-a022-4b59-8f7f-f245fbd79307": {
+      "ProjectGuid": "a34c9d6a-a022-4b59-8f7f-f245fbd79307",
+      "DisplayName": "ShopsRUs.Service",
+      "ColorIndex": 1
+    },
+    "5c641392-48ba-4801-aab5-ddd66947decf": {
+      "ProjectGuid": "5c641392-48ba-4801-aab5-ddd66947decf",
+      "DisplayName": "ShopsRUs.Core",
+      "ColorIndex": 2
+    },
+    "de964c4f-cbdc-4bae-a4cb-eed2bac1120a": {
+      "ProjectGuid": "de964c4f-cbdc-4bae-a4cb-eed2bac1120a",
+      "DisplayName": "ShopsRUs.Persistence",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
